@@ -1,4 +1,4 @@
-Hey, I'm a current undergrad at UC Berkeley, and work in LLM Research, trying to make efficient encoders on LLMs + applying agentic-workflows on interesting problems.
+Hey, I'm a current undergrad at UC Berkeley, and work on LLM Research (trying to make efficient encoders on LLMs) and applying agentic-workflows on interesting problems.
 
 I read tons of ML-adjacent research papers, but I know the pain of osentensible, verbose math - so decided to break down into intutive and insight-ordered pieces here :)
 
