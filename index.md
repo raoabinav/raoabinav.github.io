@@ -1,4 +1,4 @@
-Hey, I'm a current undergrad at UC Berkeley, and work b/n on Research on getting the most out of LLMs + Applying agentic workflows to tasks beyond humans.
+Hey, I'm a current undergrad at UC Berkeley, and work in LLM Research, trying to make efficient encoders on LLMs + applying agentic-workflows on more complex workflows than a to-do app.
 
 I read tons of ML-adjacent research papers, but I know the pain of osentensible, verbose math - so decided to break down into intutive and insight-ordered pieces here :)
 
