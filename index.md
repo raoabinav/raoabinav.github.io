@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Hey, I'm a current undergrad at UC Berkeley, and work b/n on Research on getting the most out of LLMs + Applying agentic workflows to tasks beyond humans.
 
-Maybe say a some things about yourself.
+I read tons of ML-adjacent research papers, but I know the pain of osentensible, verbose math - so decided to break down into intutive and insight-ordered pieces here :)
 
-Or maybe what you plan to blog about.
+(Ordering is loosely based on what I read in my classes, work, research, or anything cool I read on twitter.) Feel free to reach out and enjoy!
